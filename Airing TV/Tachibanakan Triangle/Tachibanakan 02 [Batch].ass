@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
 Scroll Position: 642
-Active Line: 657
+Active Line: 668
 Video Position: 4342
 
 [V4+ Styles]
@@ -698,7 +698,7 @@ Dialogue: 0,0:03:07.02,0:03:10.77,ED,,0,0,0,,{\fad(150,0)\3c&HBBF4FA&}A legacy w
 Dialogue: 1,0:03:10.77,0:03:11.60,ED,,0,0,0,,{\fad(0,150)\3c&HBBF4FA&\t(0,400,\3c&HF9A6C9&)\clip(289.333,510.667,641.333,713.333)}A legacy we shan't ever constrain
 Dialogue: 3,0:03:10.77,0:03:11.60,ED,,0,0,0,,{\fad(0,150)\3c&HBBF4FA&\t(0,400,\3c&H9594FA&)\iclip(289.333,510.667,641.333,713.333)}A legacy we shan't ever constrain
 Dialogue: 1,0:03:11.60,0:03:14.08,ED,,0,0,0,,{\fad(150,150)\clip(289.333,510.667,641.333,713.333)\3c&HF89BC1&}Bow down {\2c&HFAA2C5&}to holy judgment
-Dialogue: 0,0:03:11.60,0:03:14.08,ED,,0,0,0,,{\fad(150,150)\iclip(289.333,510.667,641.333,713.333)\3c&H999AFB&}Bow down to holy {\3c&H9999FC&}judg{\3c&H9796FC&}ment
+Dialogue: 0,0:03:11.60,0:03:14.08,ED,,0,0,0,,{\fad(150,150)\iclip(289.333,510.667,641.333,713.333)\3c&H999AFB&}Bow down to holy {\3c&H9696FC&}judgment
 Dialogue: 1,0:03:14.08,0:03:15.11,ED,,0,0,0,,{\fad(150,0)\3c&HF9A6C9&\clip(189.333,518.667,641.333,713.333)\t(710,1030,\3c&HD9CFFC&)}Dressed as you were born into this world
 Dialogue: 2,0:03:14.08,0:03:15.11,ED,,0,0,0,,{\fad(150,0)\iclip(189.333,518.667,641.333,713.333)\3c&H9F9EFC&\t(710,1030,\3c&HD9CFFC&)}Dressed as you were bo{\3c&H9A9AFC&\t(710,1030,\3c&HD9CFFC&)}rn in{\3c&H9797FC&\t(710,1030,\3c&HD9CFFC&)}to th{\3c&H9090FB&\t(710,1030,\3c&HD9CFFC&)}is wo{\3c&H8687FC&\t(710,1030,\3c&HD9CFFC&)}rld
 Dialogue: 3,0:03:15.11,0:03:16.93,ED,,0,0,0,,{\fad(0,150)\3c&HD9CFFC&}Dressed as you were born into this world
