@@ -11,13 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Utawa DDY
-Audio File: 08 1080p.mkv
-Video File: 08 1080p.mkv
+Audio File: V:/Period's Shit/Fansubbing/DameDesuYo/BDs/Utawarerumono/[BlurayDesuYo] Utawarerumono - Itsuwari no Kamen - BD Box 1 (BD 1920x1080 10bit FLAC)/[BlurayDesuYo] Utawarerumono - Itsuwari no Kamen - 08 (BD 1920x1080 10bit FLAC) [32A870BD].mkv
+Video File: V:/Period's Shit/Fansubbing/DameDesuYo/BDs/Utawarerumono/[BlurayDesuYo] Utawarerumono - Itsuwari no Kamen - BD Box 1 (BD 1920x1080 10bit FLAC)/[BlurayDesuYo] Utawarerumono - Itsuwari no Kamen - 08 (BD 1920x1080 10bit FLAC) [32A870BD].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 59
-Active Line: 108
+Video Zoom Percent: 0.750000
+Scroll Position: 309
+Active Line: 313
+Video Position: 33871
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -362,14 +363,14 @@ Comment: 0,0:23:31.05,0:23:40.02,Signs,,0,0,0,,{\fad(924,1)}Episode Nine\NMessen
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,ORIGINAL SIGNS
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,SIGNS
 Dialogue: 0,0:02:38.55,0:02:43.01,Signs,,0,0,0,,{\fad(900,0)\blur6\bord0.3\alpha&H75&\fs60\fnA-OTF Kaisho MCBK1 Pro\c&H000000&\3c&H000000&\pos(1510.3,604.299)}Epis{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}de 8
-Dialogue: 0,0:02:38.55,0:02:43.01,Signs,,0,0,0,,{\fad(900,0)\blur0.6\fs60\fnA-OTF Kaisho MCBK1 Pro\c&HFFFFFF&\pos(1510.3,604.299)}Epis{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}de 8
+Dialogue: 0,0:02:38.55,0:02:43.01,Signs,,0,0,0,,{\fad(900,0)\fs60\fnA-OTF Kaisho MCBK1 Pro\c&HFFFFFF&\pos(1510.3,604.299)}Epis{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}de 8
 Dialogue: 0,0:02:38.55,0:02:43.01,Signs,,0,0,0,,{\fad(900,0)\blur6\bord0.3\alpha&H75&\fs72\fnA-OTF Kaisho MCBK1 Pro\c&H000000&\3c&H000000&\pos(1510.3,747.8)}Imperial Capital \N Detective St{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}ries
-Dialogue: 0,0:02:38.55,0:02:43.01,Signs,,0,0,0,,{\fad(900,0)\blur0.6\fs72\fnA-OTF Kaisho MCBK1 Pro\c&HFFFFFF&\pos(1510.3,747.8)}Imperial Capital \N Detective St{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}ries
+Dialogue: 0,0:02:38.55,0:02:43.01,Signs,,0,0,0,,{\fad(900,0)\fs72\fnA-OTF Kaisho MCBK1 Pro\c&HFFFFFF&\pos(1510.3,747.8)}Imperial Capital \N Detective St{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}ries
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,DIVIDER
 Dialogue: 0,0:23:31.05,0:23:40.02,Signs,,0,0,0,,{\fad(930,0)\blur6\bord0.3\alpha&H75&\fs60\fnA-OTF Kaisho MCBK1 Pro\c&H000000&\3c&H000000&\pos(550.301,604.299)}Epis{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}de 9
-Dialogue: 0,0:23:31.05,0:23:40.02,Signs,,0,0,0,,{\fad(930,0)\blur0.6\fs60\fnA-OTF Kaisho MCBK1 Pro\c&HFFFFFF&\pos(550.301,604.299)}Epis{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}de 9
+Dialogue: 0,0:23:31.05,0:23:40.02,Signs,,0,0,0,,{\fad(930,0)\fs60\fnA-OTF Kaisho MCBK1 Pro\c&HFFFFFF&\pos(550.301,604.299)}Epis{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}de 9
 Dialogue: 0,0:23:31.05,0:23:40.02,Signs,,0,0,0,,{\fad(930,0)\blur6\bord0.3\alpha&H75&\fs72\fnA-OTF Kaisho MCBK1 Pro\c&H000000&\3c&H000000&\pos(550.301,747.8)}Messengers From the\N Land Where the G{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}ds Sleep
-Dialogue: 0,0:23:31.05,0:23:40.02,Signs,,0,0,0,,{\fad(930,0)\blur0.6\fs72\fnA-OTF Kaisho MCBK1 Pro\c&HFFFFFF&\pos(550.301,747.8)}Messengers From the \N Land Where the G{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}ds Sleep
+Dialogue: 0,0:23:31.05,0:23:40.02,Signs,,0,0,0,,{\fad(930,0)\fs72\fnA-OTF Kaisho MCBK1 Pro\c&HFFFFFF&\pos(550.301,747.8)}Messengers From the \N Land Where the G{\fscx115\b1\fs67.999\fnMerienda}o{\fs60\fnA-OTF Kaisho MCBK1 Pro}ds Sleep
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,SIGNS
 Comment: 0,0:01:06.96,0:01:07.00,Fuanteina Romaji,,0,0,0,,{OP First Frame}
 Comment: 0,0:01:06.96,0:01:07.00,Fuanteina Romaji,,0,0,0,,{OP First Frame}
