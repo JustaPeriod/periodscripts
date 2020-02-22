@@ -12,14 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Bofuri
-Audio File: Bofuri 01v3 1080p [6130A9B3].mkv
-Video File: Bofuri 01v3 1080p [6130A9B3].mkv
+Audio File: V:/Period's Shit/Fansubbing/Fansubbing/Bofuri/01/Bofuri 01v3 1080p [6130A9B3].mkv
+Video File: V:/Period's Shit/Fansubbing/Fansubbing/Bofuri/01/Bofuri 01v3 1080p [6130A9B3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 2086
-Active Line: 2090
-Video Position: 32430
+Video Zoom Percent: 0.500000
+Scroll Position: 1928
+Active Line: 1936
+Video Position: 2892
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1968,9 +1968,9 @@ Dialogue: 3,0:01:54.10,0:01:56.73,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,192
 Dialogue: 1,0:01:56.73,0:01:59.77,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\blur3\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\alpha&H80&\3c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\t(2540,2585,\1a&HFF&)}hikari ni tsutsumare
 Dialogue: 2,0:01:56.73,0:01:59.77,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\1a&HFF&\t(155,200,\1a&H00&)\t(2540,2585,\1a&HFF&)}hikari ni tsutsumare
 Dialogue: 3,0:01:56.73,0:01:59.77,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\4a&HFF&}hikari ni tsutsumare
-Dialogue: 1,0:01:59.85,0:02:03.44,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\blur3\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\alpha&H80&\3c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\t(3090,3135,\1a&HFF&)}tobikonder kuru another world
-Dialogue: 2,0:01:59.85,0:02:03.44,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\1a&HFF&\t(155,200,\1a&H00&)\t(3090,3135,\1a&HFF&)}tobikonder kuru another world
-Dialogue: 3,0:01:59.85,0:02:03.44,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\4a&HFF&}tobikonder kuru another world
+Dialogue: 1,0:01:59.85,0:02:03.44,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\blur3\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\alpha&H80&\3c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\t(3090,3135,\1a&HFF&)}tobikonde kuru another world
+Dialogue: 2,0:01:59.85,0:02:03.44,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\1a&HFF&\t(155,200,\1a&H00&)\t(3090,3135,\1a&HFF&)}tobikonde kuru another world
+Dialogue: 3,0:01:59.85,0:02:03.44,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\4a&HFF&}tobikonde kuru another world
 Dialogue: 1,0:02:06.53,0:02:12.45,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\blur3\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\alpha&H80&\3c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\t(5420,5465,\1a&HFF&)}osanai yume no akogare ha sora ni egaita heroine
 Dialogue: 2,0:02:06.53,0:02:12.45,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\1a&HFF&\t(155,200,\1a&H00&)\t(5420,5465,\1a&HFF&)}osanai yume no akogare ha sora ni egaita heroine
 Dialogue: 3,0:02:06.53,0:02:12.45,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\4a&HFF&}osanai yume no akogare ha sora ni egaita heroine

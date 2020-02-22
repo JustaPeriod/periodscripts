@@ -18,8 +18,8 @@ Keyframes File: Bofuri 04v3(mod) 1080p [5AEC5414]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 279
-Active Line: 282
+Scroll Position: 1978
+Active Line: 1994
 Video Position: 27701
 
 [V4+ Styles]
@@ -2029,9 +2029,9 @@ Dialogue: 3,0:01:20.14,0:01:22.77,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,192
 Dialogue: 1,0:01:22.77,0:01:25.81,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\blur3\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\alpha&H80&\3c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\t(2540,2585,\1a&HFF&)}hikari ni tsutsumare
 Dialogue: 2,0:01:22.77,0:01:25.81,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\1a&HFF&\t(155,200,\1a&H00&)\t(2540,2585,\1a&HFF&)}hikari ni tsutsumare
 Dialogue: 3,0:01:22.77,0:01:25.81,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\4a&HFF&}hikari ni tsutsumare
-Dialogue: 1,0:01:25.89,0:01:29.48,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\blur3\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\alpha&H80&\3c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\t(3090,3135,\1a&HFF&)}tobikonder kuru another world
-Dialogue: 2,0:01:25.89,0:01:29.48,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\1a&HFF&\t(155,200,\1a&H00&)\t(3090,3135,\1a&HFF&)}tobikonder kuru another world
-Dialogue: 3,0:01:25.89,0:01:29.48,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\4a&HFF&}tobikonder kuru another world
+Dialogue: 1,0:01:25.89,0:01:29.48,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\blur3\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\alpha&H80&\3c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\t(3090,3135,\1a&HFF&)}tobikonde kuru another world
+Dialogue: 2,0:01:25.89,0:01:29.48,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\1a&HFF&\t(155,200,\1a&H00&)\t(3090,3135,\1a&HFF&)}tobikonde kuru another world
+Dialogue: 3,0:01:25.89,0:01:29.48,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\4a&HFF&}tobikonde kuru another world
 Dialogue: 1,0:01:32.57,0:01:38.49,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\blur3\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\alpha&H80&\3c&HFFFFFF&\1a&HFF&\t(155,200,\1a&H00&)\t(5420,5465,\1a&HFF&)}osanai yume no akogare ha sora ni egaita heroine
 Dialogue: 2,0:01:32.57,0:01:38.49,OP1 - ROM,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\1a&HFF&\t(155,200,\1a&H00&)\t(5420,5465,\1a&HFF&)}osanai yume no akogare ha sora ni egaita heroine
 Dialogue: 3,0:01:32.57,0:01:38.49,OP1 - ROM,,0,0,0,,{\bord0\blur0.6\clip(0,0,1920,74)\t(0,150,1.70,\clip(0,0,1920,90))\t(151,330,0.7,\clip(0,0,1920,112))\fad(200,500)\4a&HFF&}osanai yume no akogare ha sora ni egaita heroine
